@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\classtime\\source\\repos\\Academy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEA626E7-2C34-48C4-9F9B-D9597DC6FCFD}|Academy\\Academy.csproj|c:\\users\\classtime\\source\\repos\\academy\\academy\\mytables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEA626E7-2C34-48C4-9F9B-D9597DC6FCFD}|Academy\\Academy.csproj|solutionrelative:academy\\mytables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEA626E7-2C34-48C4-9F9B-D9597DC6FCFD}|Academy\\Academy.csproj|c:\\users\\classtime\\source\\repos\\academy\\academy\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEA626E7-2C34-48C4-9F9B-D9597DC6FCFD}|Academy\\Academy.csproj|solutionrelative:academy\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEA626E7-2C34-48C4-9F9B-D9597DC6FCFD}|Academy\\Academy.csproj|c:\\users\\classtime\\source\\repos\\academy\\academy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEA626E7-2C34-48C4-9F9B-D9597DC6FCFD}|Academy\\Academy.csproj|solutionrelative:academy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mytables.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Academy\\Academy\\mytables.cs",
+              "RelativeDocumentMoniker": "Academy\\mytables.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Academy\\Academy\\mytables.cs",
+              "RelativeToolTip": "Academy\\mytables.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T08:52:28.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SqlHelper.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Academy\\Academy\\SqlHelper.cs",
+              "RelativeDocumentMoniker": "Academy\\SqlHelper.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Academy\\Academy\\SqlHelper.cs",
+              "RelativeToolTip": "Academy\\SqlHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T08:51:52.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Academy\\Academy\\Program.cs",
+              "RelativeDocumentMoniker": "Academy\\Program.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Academy\\Academy\\Program.cs",
+              "RelativeToolTip": "Academy\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T08:48:36.024Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
